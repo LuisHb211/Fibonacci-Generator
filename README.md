@@ -25,7 +25,7 @@ To use this code:
 ## Example
 
 Suppose you input a size of 5 for the Fibonacci sequence. The generated text file (fibonacci_sequence.txt) would contain:
-1. 0, 1, 1, 2, 3.
+0, 1, 1, 2, 3.
 
 ## Contributing
 
